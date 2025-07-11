@@ -1,4 +1,4 @@
-# Big Data Internship Analysis Project
+# Big Data Analysis Project
 
 This project was developed as part of an internship to showcase data analysis and handling skills using real-world datasets. It focuses on analyzing regional data (Theni district) and COVID-19 data using Python.
 
